@@ -1,0 +1,3 @@
+[submodule "learnuv"]
+	path = learnuv
+	url = https://github.com/thlorenz/learnuv.git
