@@ -36,8 +36,9 @@ urlFormat = url.format(urlParse);
 urlFormatFromString = url.format(UniformResourceLocator);
 console.log("\n" + "======================== urlFormat & urlParse.href ========================");
 console.log(urlFormat);
-console.log(urlParse.href);
-console.log(urlFormatFromString);
+console.log(urlParse.href); //value taken from href attrib of urlParse
+console.log(urlFormatFromString); //converts urlParse back to String
+//both same value... :\
 
 var urlObject = urlParse;
 console.log("\n" + "======================== urlObject attribs ========================");
