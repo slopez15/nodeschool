@@ -2,3 +2,6 @@
 	path = learnuv
 	url = https://github.com/thlorenz/learnuv.git
 
+[submodule "how-to-npm"]
+	path = how-to-npm
+	url = https://github.com/slopez15/how-to-npm.git
