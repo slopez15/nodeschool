@@ -1,3 +1,6 @@
 [submodule "learnuv"]
 	path = learnuv
 	url = https://github.com/thlorenz/learnuv.git
+[submodule "nodeschool-how-to-npm"]
+	path = nodeschool-how-to-npm
+	url = https://github.com/slopez15/nodeschool-how-to-npm.git
