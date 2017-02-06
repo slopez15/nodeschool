@@ -5,3 +5,7 @@
 [submodule "how-to-npm"]
 	path = how-to-npm
 	url = https://github.com/slopez15/how-to-npm.git
+[submodule "expressworks"]
+	path = expressworks
+	url = https://github.com/slopez15/expressworks.git
+	branch = master
