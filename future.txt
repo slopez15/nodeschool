@@ -1,0 +1,19 @@
+Project
+elementary-electron
+learnyoumongo
+
+Other
+best-practices
+
+To learn for JS interviewing.
+planetproto
+scope-chains-closures
+currying-workshopper
+.
+async-you
+promise-it-wont-hurt
+.
+regex-adventure
+pattern-lab-workshop
+.
+
